@@ -1,6 +1,6 @@
 # Тест 13: NP1 Использование сокетов
 
-<div class="quiz-meta"><strong>Источник главы:</strong> <a href="https://koroteev.site/os/4/1-sockets/">https://koroteev.site/os/4/1-sockets/</a><br><strong>Охват:</strong> Клиент-серверная модель, TCP/UDP-сокеты, порты, bind/listen/accept, echo-сервер и сериализация.<br><strong>Формат:</strong> 18 отобранных вопросов, 4 варианта, один правильный ответ, цветовая проверка выбора.<br><strong>Версия:</strong> v6 — только ключевые и информативные вопросы.</div>
+<div class="quiz-meta"><strong>Источник главы:</strong> <a href="https://koroteev.site/os/4/1-sockets/">https://koroteev.site/os/4/1-sockets/</a><br><strong>Охват:</strong> Клиент-серверная модель, TCP/UDP-сокеты, порты, bind/listen/accept, echo-сервер и сериализация.<br><strong>Формат:</strong> 18 отобранных вопросов, 4 варианта, один правильный ответ, цветовая проверка выбора.<br>.</div>
 
 <style>
 .quiz-container { max-width: 900px; margin: 0 auto; }
