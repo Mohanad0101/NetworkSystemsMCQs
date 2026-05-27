@@ -1,6 +1,6 @@
 # Тест 15: NP3 Безопасность сетевых приложений
 
-<div class="quiz-meta"><strong>Источник главы:</strong> <a href="https://koroteev.site/os/4/3-security/">https://koroteev.site/os/4/3-security/</a><br><strong>Охват:</strong> Симметричное и асимметричное шифрование, TLS, сертификаты, подписи, хэширование и защита секретов.<br><strong>Формат:</strong> 18 отобранных вопросов, 4 варианта, один правильный ответ, цветовая проверка выбора.<br><strong>Версия:</strong> v6 — только ключевые и информативные вопросы.</div>
+<div class="quiz-meta"><strong>Источник главы:</strong> <a href="https://koroteev.site/os/4/3-security/">https://koroteev.site/os/4/3-security/</a><br><strong>Охват:</strong> Симметричное и асимметричное шифрование, TLS, сертификаты, подписи, хэширование и защита секретов.<br><strong>Формат:</strong> 18 отобранных вопросов, 4 варианта, один правильный ответ, цветовая проверка выбора.<br></div>
 
 <style>
 .quiz-container { max-width: 900px; margin: 0 auto; }
