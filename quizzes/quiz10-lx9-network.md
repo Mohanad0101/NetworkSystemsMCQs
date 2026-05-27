@@ -59,8 +59,8 @@
 </div>
 
 <div class="quiz-question" data-correct="0">
-<h4>Вопрос 5. Почему успешный ping до 8.8.8.8 и неуспешный ping до доменного имени указывают на вероятную DNS-проблему?</h4>
-<div class="quiz-option" data-index="0">IP-связность есть, а преобразование имени в IP не работает</div>
+<h4>Вопрос 5. Почему успешный ping до 91.81.6.8 и неуспешный ping до доменного?</h4>
+<div class="quiz-option" data-index="0">IP-связность есть, а преобразование имени в IP не работает  </div>
 <div class="quiz-option" data-index="1">Локальный сетевой интерфейс выключен</div>
 <div class="quiz-option" data-index="2">ICMP полностью заблокирован</div>
 <div class="quiz-option" data-index="3">Маршрутизатор не включен</div>
