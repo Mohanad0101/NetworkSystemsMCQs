@@ -1,6 +1,6 @@
 # Тест 14: NP2 Асинхронное программирование
 
-<div class="quiz-meta"><strong>Источник главы:</strong> <a href="https://koroteev.site/os/4/2-async/">https://koroteev.site/os/4/2-async/</a><br><strong>Охват:</strong> Потоки, процессы, GIL, race condition, deadlock, синхронизация, asyncio и event loop.<br><strong>Формат:</strong> 18 отобранных вопросов, 4 варианта, один правильный ответ, цветовая проверка выбора.<br><strong>Версия:</strong> v6 — только ключевые и информативные вопросы.</div>
+<div class="quiz-meta"><strong>Источник главы:</strong> <a href="https://koroteev.site/os/4/2-async/">https://koroteev.site/os/4/2-async/</a><br><strong>Охват:</strong> Потоки, процессы, GIL, race condition, deadlock, синхронизация, asyncio и event loop.<br><strong>Формат:</strong> 18 отобранных вопросов, 4 варианта, один правильный ответ, цветовая проверка выбора.<br></div>
 
 <style>
 .quiz-container { max-width: 900px; margin: 0 auto; }
