@@ -1,6 +1,6 @@
 # Тест 12: DO1 Контроль версий: Git и GitHub
 
-<div class="quiz-meta"><strong>Источник главы:</strong> <a href="https://koroteev.site/os/3/1-git/">https://koroteev.site/os/3/1-git/</a><br><strong>Охват:</strong> Коммиты, staging area, ветки, слияние, удаленные репозитории, pull request и .gitignore.<br><strong>Формат:</strong> 18 отобранных вопросов, 4 варианта, один правильный ответ, цветовая проверка выбора.<br><strong>Версия:</strong> v6 — только ключевые и информативные вопросы.</div>
+<div class="quiz-meta"><strong>Источник главы:</strong> <a href="https://koroteev.site/os/3/1-git/">https://koroteev.site/os/3/1-git/</a><br><strong>Охват:</strong> Коммиты, staging area, ветки, слияние, удаленные репозитории, pull request и .gitignore.<br><strong>Формат:</strong> 18 отобранных вопросов, 4 варианта, один правильный ответ, цветовая проверка выбора.<br></div>
 
 <style>
 .quiz-container { max-width: 900px; margin: 0 auto; }
