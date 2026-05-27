@@ -1,6 +1,6 @@
 # Тест 16: NP4 Веб-сервер
 
-<div class="quiz-meta"><strong>Источник главы:</strong> <a href="https://koroteev.site/os/4/4-web-server/">https://koroteev.site/os/4/4-web-server/</a><br><strong>Охват:</strong> HTTP/HTTPS, Nginx, виртуальные хосты, обратный прокси, Flask, статический и динамический контент.<br><strong>Формат:</strong> 18 отобранных вопросов, 4 варианта, один правильный ответ, цветовая проверка выбора.<br><strong>Версия:</strong> v6 — только ключевые и информативные вопросы.</div>
+<div class="quiz-meta"><strong>Источник главы:</strong> <a href="https://koroteev.site/os/4/4-web-server/">https://koroteev.site/os/4/4-web-server/</a><br><strong>Охват:</strong> HTTP/HTTPS, Nginx, виртуальные хосты, обратный прокси, Flask, статический и динамический контент.<br><strong>Формат:</strong> 18 отобранных вопросов, 4 варианта, один правильный ответ, цветовая проверка выбора.<br></div>
 
 <style>
 .quiz-container { max-width: 900px; margin: 0 auto; }
