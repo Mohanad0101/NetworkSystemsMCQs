@@ -1,6 +1,6 @@
 # Тест 11: DO0 Использование Linux для разработки
 
-<div class="quiz-meta"><strong>Источник главы:</strong> <a href="https://koroteev.site/os/3/0-environment/">https://koroteev.site/os/3/0-environment/</a><br><strong>Охват:</strong> Виртуальное окружение Python, зависимости, работа с файлами, структура проекта и переносимость.<br><strong>Формат:</strong> 18 отобранных вопросов, 4 варианта, один правильный ответ, цветовая проверка выбора.<br><strong>Версия:</strong> ....</div>
+<div class="quiz-meta"><strong>Источник главы:</strong> <a href="https://koroteev.site/os/3/0-environment/">https://koroteev.site/os/3/0-environment/</a><br><strong>Охват:</strong> Виртуальное окружение Python, зависимости, работа с файлами, структура проекта и переносимость.<br><strong>Формат:</strong> 18 отобранных вопросов, 4 варианта, один правильный ответ, цветовая проверка выбора.<br></div>
 
 <style>
 .quiz-container { max-width: 900px; margin: 0 auto; }
