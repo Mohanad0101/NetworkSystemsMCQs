@@ -1,6 +1,6 @@
 # Тест 17: DO2 Создание и развертывание серверного приложения
 
-<div class="quiz-meta"><strong>Источник главы:</strong> <a href="https://koroteev.site/os/3/2-deploy/">https://koroteev.site/os/3/2-deploy/</a><br><strong>Охват:</strong> Переменные окружения, SSH/SCP, firewall, Dockerfile, контейнеры, запуск сервиса и автоматизация деплоя.<br><strong>Формат:</strong> 18 отобранных вопросов, 4 варианта, один правильный ответ, цветовая проверка выбора.<br><strong>Версия:</strong> v6 — только ключевые и информативные вопросы.</div>
+<div class="quiz-meta"><strong>Источник главы:</strong> <a href="https://koroteev.site/os/3/2-deploy/">https://koroteev.site/os/3/2-deploy/</a><br><strong>Охват:</strong> Переменные окружения, SSH/SCP, firewall, Dockerfile, контейнеры, запуск сервиса и автоматизация деплоя.<br><strong>Формат:</strong> 18 отобранных вопросов, 4 варианта, один правильный ответ, цветовая проверка выбора.<br></div>
 
 <style>
 .quiz-container { max-width: 900px; margin: 0 auto; }
