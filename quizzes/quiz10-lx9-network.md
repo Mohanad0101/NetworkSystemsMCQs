@@ -1,6 +1,6 @@
 # Тест 10: LX9 Настройка сетевой среды в Linux
 
-<div class="quiz-meta"><strong>Источник главы:</strong> <a href="https://koroteev.site/os/2/5-network/">https://koroteev.site/os/2/5-network/</a><br><strong>Охват:</strong> IP-адресация, NAT, маршрутизация, OSI/TCP-IP, DNS/DHCP и диагностика сети.<br><strong>Формат:</strong> 18 отобранных вопросов, 4 варианта, один правильный ответ, цветовая проверка выбора.<br><strong>Версия:</strong></div>
+<div class="quiz-meta"><strong>Источник главы:</strong> <a href="https://koroteev.site/os/2/5-network/">https://koroteev.site/os/2/5-network/</a><br><strong>Охват:</strong> IP-адресация, NAT, маршрутизация, OSI/TCP-IP, DNS/DHCP и диагностика сети.<br><strong>Формат:</strong> 18 отобранных вопросов, 4 варианта, один правильный ответ, цветовая проверка выбора.<br></div>
 
 <style>
 .quiz-container { max-width: 900px; margin: 0 auto; }
